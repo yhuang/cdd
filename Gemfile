@@ -10,7 +10,6 @@ end
 group :test do
   gem 'database_cleaner', '~>1.2.0'
   gem 'factory_girl_rails', '~>4.2.1'
-  gem 'faker', '~>1.2.0'
   gem 'simplecov', '~>0.7.1'
   gem 'timecop'
 end
